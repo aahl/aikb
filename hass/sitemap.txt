@@ -35,4 +35,5 @@ https://www.home-assistant.io/integrations/light.mqtt/
 https://www.home-assistant.io/integrations/fan.mqtt/
 
 https://github.com/hasscc/hass-docker
+https://github.com/hasscc/hass-super
 https://github.com/hacs-china/integration
