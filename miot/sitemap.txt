@@ -1,15 +1,15 @@
-https://github.com/al-one/hass-xiaomi-miot
+https://raw.githubusercontent.com/al-one/hass-xiaomi-miot/refs/heads/master/README.md
 https://raw.githubusercontent.com/al-one/hass-xiaomi-miot/refs/heads/master/README_zh.md
 
-https://r.jina.ai/github.com/al-one/hass-xiaomi-miot/issues/100
-https://r.jina.ai/github.com/al-one/hass-xiaomi-miot/issues/500
-https://r.jina.ai/github.com/al-one/hass-xiaomi-miot/issues/600
-https://r.jina.ai/github.com/al-one/hass-xiaomi-miot/issues/479
-https://r.jina.ai/github.com/al-one/hass-xiaomi-miot/issues/713
-https://r.jina.ai/github.com/al-one/hass-xiaomi-miot/issues/1267
-https://r.jina.ai/github.com/al-one/hass-xiaomi-miot/issues/1558
-https://r.jina.ai/github.com/al-one/hass-xiaomi-miot/issues/2060
-https://r.jina.ai/github.com/al-one/hass-xiaomi-miot/issues/2296
+https://aikb.anan.pro/al-one/hass-xiaomi-miot/issues/100
+https://aikb.anan.pro/al-one/hass-xiaomi-miot/issues/500
+https://aikb.anan.pro/al-one/hass-xiaomi-miot/issues/600
+https://aikb.anan.pro/al-one/hass-xiaomi-miot/issues/479
+https://aikb.anan.pro/al-one/hass-xiaomi-miot/issues/713
+https://aikb.anan.pro/al-one/hass-xiaomi-miot/issues/1267
+https://aikb.anan.pro/al-one/hass-xiaomi-miot/issues/1558
+https://aikb.anan.pro/al-one/hass-xiaomi-miot/issues/2060
+https://aikb.anan.pro/al-one/hass-xiaomi-miot/issues/2296
 
 https://r.jina.ai/github.com/al-one/hass-xiaomi-miot/discussions/1906
 
