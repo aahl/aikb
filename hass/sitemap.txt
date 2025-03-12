@@ -33,6 +33,7 @@ https://www.home-assistant.io/integrations/switch.mqtt/#selector=article.page
 https://www.home-assistant.io/integrations/select.mqtt/#selector=article.page
 https://www.home-assistant.io/integrations/light.mqtt/#selector=article.page
 https://www.home-assistant.io/integrations/fan.mqtt/#selector=article.page
+https://www.home-assistant.io/integrations/template/#selector=article.page
 
 https://raw.githubusercontent.com/hasscc/hass-docker/refs/heads/main/README.md
 https://raw.githubusercontent.com/hasscc/hass-super/refs/heads/main/README.md
