@@ -1,20 +1,19 @@
 https://raw.githubusercontent.com/al-one/hass-xiaomi-miot/refs/heads/master/README.md
 https://raw.githubusercontent.com/al-one/hass-xiaomi-miot/refs/heads/master/README_zh.md
 
-https://aikb.anan.pro/al-one/hass-xiaomi-miot/issues/100
-https://aikb.anan.pro/al-one/hass-xiaomi-miot/issues/500
-https://aikb.anan.pro/al-one/hass-xiaomi-miot/issues/600
-https://aikb.anan.pro/al-one/hass-xiaomi-miot/issues/479
-https://aikb.anan.pro/al-one/hass-xiaomi-miot/issues/713
-https://aikb.anan.pro/al-one/hass-xiaomi-miot/issues/1267
-https://aikb.anan.pro/al-one/hass-xiaomi-miot/issues/1558
-https://aikb.anan.pro/al-one/hass-xiaomi-miot/issues/2060
-https://aikb.anan.pro/al-one/hass-xiaomi-miot/issues/2296
+https://aikb.4url.cn/al-one/hass-xiaomi-miot/issues/100#title=Miot集成常见问题
+https://aikb.4url.cn/al-one/hass-xiaomi-miot/issues/500#title=登录失败/没有实体等常见问题解决办法
+https://aikb.4url.cn/al-one/hass-xiaomi-miot/issues/600#title=通过UI管理自定义选项 
+https://aikb.4url.cn/al-one/hass-xiaomi-miot/issues/479#title=电视关机后无法通过按钮开机
+https://aikb.4url.cn/al-one/hass-xiaomi-miot/issues/713#title=小米新风空调homekit无法调节风速
+https://aikb.4url.cn/al-one/hass-xiaomi-miot/issues/1135#title=扫地机风速等选项翻译成英文
+https://aikb.4url.cn/al-one/hass-xiaomi-miot/issues/1267#title=设置了路由表也无法跨网络连接设备
+https://aikb.4url.cn/al-one/hass-xiaomi-miot/issues/1558#title=Ainice三体场景传感器ainice.sensor_occupy.3b实时触发
+https://aikb.4url.cn/al-one/hass-xiaomi-miot/issues/2060#title=functools.partial+descriptor+in+future
+https://aikb.4url.cn/al-one/hass-xiaomi-miot/issues/2296#title=设备轮训时间修改
 
 https://r.jina.ai/github.com/al-one/hass-xiaomi-miot/discussions/1906
-
 https://r.jina.ai/github.com/al-one/hass-xiaomi-miot/commit/1132e90781b1d71b9bee7560934311c4b988570c
-
 https://raw.githubusercontent.com/al-one/hass-xiaomi-miot/refs/heads/master/custom_components/xiaomi_miot/core/device_customizes.py
 
 https://python-miio.readthedocs.io/en/latest/troubleshooting.html#troubleshooting
