@@ -9,6 +9,7 @@ https://aikb.4url.cn/al-one/hass-xiaomi-miot/issues/713#title=小米新风空调
 https://aikb.4url.cn/al-one/hass-xiaomi-miot/issues/1135#title=扫地机风速等选项翻译成英文
 https://aikb.4url.cn/al-one/hass-xiaomi-miot/issues/1267#title=设置了路由表也无法跨网络连接设备
 https://aikb.4url.cn/al-one/hass-xiaomi-miot/issues/1558#title=Ainice三体场景传感器ainice.sensor_occupy.3b实时触发
+https://aikb.4url.cn/al-one/hass-xiaomi-miot/issues/2030#title=易来灯缓开缓灭
 https://aikb.4url.cn/al-one/hass-xiaomi-miot/issues/2060#title=functools.partial+descriptor+in+future
 https://aikb.4url.cn/al-one/hass-xiaomi-miot/issues/2296#title=设备轮训时间修改
 
