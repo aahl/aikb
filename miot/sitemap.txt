@@ -6,6 +6,7 @@ https://aikb.4url.cn/al-one/hass-xiaomi-miot/issues/500#title=登录失败/没�
 https://aikb.4url.cn/al-one/hass-xiaomi-miot/issues/600#title=通过UI管理自定义选项 
 https://aikb.4url.cn/al-one/hass-xiaomi-miot/issues/479#title=电视关机后无法通过按钮开机
 https://aikb.4url.cn/al-one/hass-xiaomi-miot/issues/713#title=小米新风空调homekit无法调节风速
+https://aikb.4url.cn/al-one/hass-xiaomi-miot/issues/803#title=小米门铃视频流自动化
 https://aikb.4url.cn/al-one/hass-xiaomi-miot/issues/1135#title=扫地机风速等选项翻译成英文
 https://aikb.4url.cn/al-one/hass-xiaomi-miot/issues/1267#title=设置了路由表也无法跨网络连接设备
 https://aikb.4url.cn/al-one/hass-xiaomi-miot/issues/1558#title=Ainice三体场景传感器ainice.sensor_occupy.3b实时触发
