@@ -15,7 +15,8 @@ https://aikb.4url.cn/al-one/hass-xiaomi-miot/issues/2030#title=易来灯缓开�
 https://aikb.4url.cn/al-one/hass-xiaomi-miot/issues/2060#title=functools.partial+descriptor+in+future
 https://aikb.4url.cn/al-one/hass-xiaomi-miot/issues/2296#title=设备轮训时间修改
 
-https://r.jina.ai/github.com/al-one/hass-xiaomi-miot/discussions/1906
+https://aikb.4url.cn/al-one/hass-xiaomi-miot/discussions/1906#title=小爱对话记录实体使用场景及示例
+https://aikb.4url.cn/al-one/hass-xiaomi-miot/discussions/2449#title=摄像头或门铃录像并通知
 https://r.jina.ai/github.com/al-one/hass-xiaomi-miot/commit/1132e90781b1d71b9bee7560934311c4b988570c
 https://raw.githubusercontent.com/al-one/hass-xiaomi-miot/refs/heads/master/custom_components/xiaomi_miot/core/device_customizes.py
 
