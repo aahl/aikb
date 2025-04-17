@@ -3,7 +3,7 @@ https://raw.githubusercontent.com/al-one/hass-xiaomi-miot/refs/heads/master/READ
 
 https://aikb.4url.cn/al-one/hass-xiaomi-miot/issues/100#title=Miot集成常见问题
 https://aikb.4url.cn/al-one/hass-xiaomi-miot/issues/500#title=登录失败/没有实体等常见问题解决办法
-https://aikb.4url.cn/al-one/hass-xiaomi-miot/issues/600#title=通过UI管理自定义选项 
+https://aikb.4url.cn/al-one/hass-xiaomi-miot/issues/600#title=通过UI管理自定义选项
 https://aikb.4url.cn/al-one/hass-xiaomi-miot/issues/479#title=电视关机后无法通过按钮开机
 https://aikb.4url.cn/al-one/hass-xiaomi-miot/issues/713#title=小米新风空调homekit无法调节风速
 https://aikb.4url.cn/al-one/hass-xiaomi-miot/issues/803#title=小米门铃视频流自动化
